@@ -1,0 +1,327 @@
+#top-heading{
+    font-size: 2.2rem;
+}
+.bgimage{
+
+    height: 834px;
+}
+nav ul li a{
+    color: red !important;
+    padding-right: 10px !important;
+}
+
+.navbar-collapse{
+    background-color: #f7f7f7;
+}
+.headerset h2{
+   
+    display: inline-block;
+    position: relative !important ;
+    width: 280px;
+    left: -183px !important;
+    font-size:29px !important;
+   
+}
+.headerset button{
+    position: relative;
+    width: auto;
+    font-size: 0.8rem;
+    top: 20px;
+    left: -145px;
+}
+
+.video{
+   position: relative !important ;
+   left: 50 !important;
+}
+
+.outer{
+  
+    width: 400px;
+    height: 300px;
+   
+}
+.inner{
+    margin: 29px;
+    height: 240px;
+}   
+
+.inner img{
+    height: 40px;
+    width: 40px;
+    
+    margin: 28% 45%;
+} 
+
+/* desc */
+
+#desc{
+    height: 600px;
+}
+
+#desc img{
+    height: 140px !important;
+}
+
+#desc h4{
+    font-size: 1rem !important;
+    
+}
+
+#desc2 h4{
+    margin-left: 40px;
+}
+
+#desc #desc2 p{
+    padding-right: 135px !important;
+    font-size: 0.8rem !important;
+}
+
+#desc #desc1 p{
+    margin-right: 66px;
+    padding: 5px;
+    font-size: 0.8rem !important;
+}
+
+ #desc #desc2 h4{
+    display: inline-block;
+    margin-right: 258px;
+    left: -112px !important;
+} 
+
+
+/* working */
+
+.working{
+    margin-left: 45px;
+    display: flex;
+    height: 700px !important;
+    width: 400px;
+    padding-bottom: 70px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.working .circle{
+    display: flex!;
+    flex-direction: row !important;
+    margin: 10px;
+    width: 200px;
+    height: 200px;   
+}
+.working img{
+    height: 140px !important;
+    width: 170px !important;
+}
+
+.working h5{
+    font-size: 0.8rem !important;
+    margin-top: 5px;
+}
+
+/* Live-Classes */
+
+#live-classes {
+     width: 400px;
+     margin-top: 580px !important;
+     margin-left: 45px !important;
+ }
+
+ 
+ #live-classes .container{
+     display: flex !important;
+     overflow: hidden;
+     flex-wrap: wrap !important;
+     padding-bottom: 400px;
+     margin-left: 400px;
+     height: 600px !important;
+}
+
+#live-title {
+    margin-left: -31px;
+    font-size: 1.4rem !important;
+    left: 10px !important;
+}
+
+.live-video .outer {
+    width: 200px;
+    height: 200px;
+}
+
+.live-video .inner{
+    margin: 20px 30px;
+    width: 140px;
+    height:150px ;
+}
+
+#live-classes img{
+    margin: 55px 45px;
+    top: 214px;
+    right: 104px !important;  
+}
+
+ #live-desc1 h4{
+    margin-top: 250px;
+}
+#live-desc1 p{
+    margin-right: 11px;    
+}
+
+ #live-desc2 h4{
+    margin-right: 62px;   
+}
+#live-desc2 p{
+    margin-right: 55px;    
+}
+
+#live-desc3 h4{
+    margin-right: 40px;   
+}
+
+#live-desc3 p{
+    margin-right: 48px;    
+}
+
+
+ #live-classes .details h4{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: -40px;
+    
+} 
+
+#live-classes .details p{
+    font-size: 0.8rem;
+}
+
+#live-classes .live-pic img{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    z-index: 1;
+    
+}
+
+/* courses */
+
+#courses{
+    position: relative;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 1300px; 
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 4px -4px 12px rgb(51, 140, 255);
+    /* overflow: hidden; */
+   }
+
+#course-title{
+    font-size: 1.4rem !important;
+    left: 10px !important;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.course{
+    width: 240px;
+    margin: 14px;
+    margin-left: -13px;
+    padding: 10px;
+    box-shadow: 2px 4px 25px gray;   
+}
+#view-courses button{
+
+    position: relative !important;
+    top: 3px;
+    margin-left: -534px;
+
+}
+
+/* books */
+
+#book{
+    height: 1290px;
+    width: 420px;
+    margin-left:32px;
+    justify-content: center;
+    align-items: center;
+}
+
+.book{
+    width: 280px;
+    position: relative;
+    right: 57px;
+    margin: 14px;
+     padding:3 px;
+}
+
+#book #more-book button{
+    margin-top: 6px;
+    margin-left: 0px;
+}
+
+/* instructor */
+
+#instrutor .card{
+    width: 400px !important;
+    height: 150px !important;
+    margin-left: 40px;
+    background-color: #fc5296;
+background-image: linear-gradient(315deg, #fc5296 0%, #f67062 74%); 
+   
+}
+
+#instrutor .card h3{
+    color: white;
+    font-family: 'Syne Mono', monospace;;
+}
+
+#instrutor .card p{
+    font-size: 0.8rem;
+    color: wheat;
+}
+#instrutor .card .stretched-link{
+    color: rgb(226, 12, 12);
+    font-size: 1rem;
+}
+
+
+
+/* download */
+
+#download{
+    display: inline-block;
+    margin-left: -72px;
+}
+
+.card{
+    align-items: center;
+   height: 300px;
+   width: 180px;
+   border-radius: 20px;
+   box-shadow: 2px 4px 20px black;
+}
+#card1{
+    position: relative;
+    right: 26px;
+}
+
+#card3{
+    position: relative;
+    right: 26px;
+}
+
+.card-pic{
+    margin: 0px 110px !important;
+}
+
+
+#instrutor img{
+    height: 10px !important;
+    width: 10px !important;
+}
+
+
+h2{
+    font-size: 1.6rem !important;
+}
